@@ -3,6 +3,7 @@
 /images/*
 
 /.ipynb_checkpoints/
+.venv
 
 /yolov4-tiny/obj.zip
 
