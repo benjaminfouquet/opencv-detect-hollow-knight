@@ -4,7 +4,10 @@
 
 /.ipynb_checkpoints/
 .venv
-
+/window_capture/shuffled_images
+/window_capture/images
+/window_capture/obj
+/stream_captured
 /yolov4-tiny/obj.zip
 
 /bkp/
