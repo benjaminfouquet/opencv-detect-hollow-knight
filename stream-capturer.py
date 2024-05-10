@@ -48,7 +48,7 @@ while True:
     )  # Set the initial window size to 800x600
     cv2.imshow("stream_capture", frame)
 
-    if frame_count % 4 == 0:
+    if frame_count % 30 == 0:
         # Save the frame as an image
         image_path = os.path.join(output_folder, f"frame_{export_count}.jpg")
         export_count += 1
