@@ -1,0 +1,34 @@
+INFO:root:checking for twikilix every 15 seconds, recording with best quality
+INFO:root:twikilix online, stream recording in session
+INFO:root:recording stream is done, processing video file
+INFO:root:fixing ./livestream_capture\recorded\twikilix\twikilix - 2024-05-09 16h34m15s - test_obs_vc.mp4
+ERROR:root:[WinError 2] Le fichier spécifié est introuvable
+INFO:root:processing is done, going back to checking...
+INFO:root:twikilix currently offline, checking again in 15 seconds
+INFO:root:twikilix currently offline, checking again in 15 seconds
+INFO:root:twikilix currently offline, checking again in 15 seconds
+INFO:root:twikilix currently offline, checking again in 15 seconds
+INFO:root:twikilix currently offline, checking again in 15 seconds
+INFO:root:twikilix currently offline, checking again in 15 seconds
+INFO:root:twikilix currently offline, checking again in 15 seconds
+INFO:root:twikilix currently offline, checking again in 15 seconds
+INFO:root:twikilix online, stream recording in session
+INFO:root:recording stream is done, processing video file
+INFO:root:fixing ./livestream_capture\recorded\twikilix\twikilix - 2024-05-09 16h37m25s - test_obs_vc.mp4
+ERROR:root:[WinError 2] Le fichier spécifié est introuvable
+INFO:root:processing is done, going back to checking...
+INFO:root:processing previously recorded files
+INFO:root:fixing ./livestream_capture\recorded\twikilix\twikilix - 2024-05-09 16h34m15s - test_obs_vc.mp4
+ERROR:root:[WinError 2] Le fichier spécifié est introuvable
+INFO:root:fixing ./livestream_capture\recorded\twikilix\twikilix - 2024-05-09 16h37m25s - test_obs_vc.mp4
+ERROR:root:[WinError 2] Le fichier spécifié est introuvable
+INFO:root:checking for twikilix every 15 seconds, recording with best quality
+ERROR:root:16h42m42s unexpected error. will try again in 5 minutes
+INFO:root:processing previously recorded files
+INFO:root:fixing ./livestream_capture\recorded\twikilix\twikilix - 2024-05-09 16h34m15s - test_obs_vc.mp4
+ERROR:root:[WinError 2] Le fichier spécifié est introuvable
+INFO:root:fixing ./livestream_capture\recorded\twikilix\twikilix - 2024-05-09 16h37m25s - test_obs_vc.mp4
+ERROR:root:[WinError 2] Le fichier spécifié est introuvable
+INFO:root:checking for twikilix every 15 seconds, recording with best quality
+INFO:root:twikilix currently offline, checking again in 15 seconds
+INFO:root:twikilix currently offline, checking again in 15 seconds
