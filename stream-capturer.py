@@ -39,7 +39,14 @@ while True:
     if not success:
         break
 
-    cv2.imshow("frame", frame)
+    # Get the resolution of the frame
+    height, width, _ = frame.shape
+
+    cv2.namedWindow("stream_capture", cv2.WINDOW_FULLSCREEN)
+    cv2.resizeWindow(
+        "stream_capture", width, height
+    )  # Set the initial window size to 800x600
+    cv2.imshow("stream_capture", frame)
 
     if frame_count % 4 == 0:
         # Save the frame as an image
