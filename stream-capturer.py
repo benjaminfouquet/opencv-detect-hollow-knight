@@ -27,7 +27,7 @@ cap = cv2.VideoCapture(stream_url)
 frame_count = 0
 export_count = 0
 output_folder = os.path.join(
-    "livestream_capture_frames",
+    "stream_captured",
     user + "_" + datetime.datetime.now().strftime("%m_%d_%H_%M_%S"),
 )
 # Create the output folder if it doesn't exist
