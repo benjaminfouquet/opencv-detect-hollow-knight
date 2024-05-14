@@ -1,5 +1,12 @@
 ### Object Detection on live feed
 
+### Quick start
+
+- Install dependencies ``numpy, cv2, streamlink``
+- In ``4_yolo_opencv_detector_stream.ipynb`` replace `user = "twikilix"` with your own username
+- start streaming on Twitch (ex: use OBS studio)
+- run ``4_yolo_opencv_detector_stream.ipynb`` (the model ``yolov4-tiny-custom_last.weights`` Object Detector is trained on video game Hollow Knight)
+
 #### Dataset generation
 `stream-capturer.py` captures frame by frame live stream from my own twitch account `twikilix` if its live using Streamlink, and stores them in the stream_captured folder.
 
